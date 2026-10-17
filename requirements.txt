@@ -1,0 +1,6 @@
+# Dependências para Testes Automatizados (Test Harness)
+pytest>=7.4.0
+
+# Dependências para Qualidade e Cobertura de Código (Opcionais)
+pytest-cov>=4.1.0
+flake8>=6.1.0
